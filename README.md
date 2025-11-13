@@ -4,6 +4,8 @@
 
 This repository is a clone of Commerce Kickstart for testing purposes only. It has nothing to do with the original Commerce Kickstart project.
 
+**This repository includes the `drupal-forge` Claude skill** - clone this repo, make changes, and use Claude Code to set up a live test environment on DrupalPod/Drupal Forge.
+
 **This repository will be deleted soon. Use at your own risk.**
 
 ---
